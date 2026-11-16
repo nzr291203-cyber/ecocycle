@@ -26,7 +26,7 @@ export const pickupLocations: PickupLocation[] = [
       "Logam & Kaleng",
       "Kaca",
     ],
-    nomorWhatsApp: "6281200000001",
+    nomorWhatsApp: "62895321218507",
   },
   {
     id: "tps3r-cibolang",
@@ -37,7 +37,7 @@ export const pickupLocations: PickupLocation[] = [
     koordinat: [-6.8938, 106.893],
     jadwalPenjemputan: "Setiap Senin & Kamis, 07.30 - 11.30 WIB",
     jenisSampahDiterima: ["Organik / Kompos", "Kertas & Kardus", "Plastik"],
-    nomorWhatsApp: "6281200000002",
+    nomorWhatsApp: "62895321218507",
   },
   {
     id: "bank-sampah-cibaraja",
@@ -53,7 +53,7 @@ export const pickupLocations: PickupLocation[] = [
       "Elektronik / E-Waste",
       "Kaca",
     ],
-    nomorWhatsApp: "6281200000003",
+    nomorWhatsApp: "62895321218507",
   },
   {
     id: "bank-sampah-mitra-cibadak",
@@ -69,7 +69,7 @@ export const pickupLocations: PickupLocation[] = [
       "Plastik",
       "Minyak Jelantah",
     ],
-    nomorWhatsApp: "6281200000004",
+    nomorWhatsApp: "62895321218507",
   },
   {
     id: "tps3r-sukaraja",
@@ -80,7 +80,7 @@ export const pickupLocations: PickupLocation[] = [
     koordinat: [-6.918, 106.956],
     jadwalPenjemputan: "Setiap Rabu, 08.00 - 12.00 WIB",
     jenisSampahDiterima: ["Organik / Kompos", "Kertas & Kardus", "Kaca"],
-    nomorWhatsApp: "6281200000005",
+    nomorWhatsApp: "62895321218507",
   },
   {
     id: "kompos-center-kadudampit",
@@ -95,7 +95,7 @@ export const pickupLocations: PickupLocation[] = [
       "Minyak Jelantah",
       "Kertas & Kardus",
     ],
-    nomorWhatsApp: "6281200000006",
+    nomorWhatsApp: "62895321218507",
   },
 ];
 
